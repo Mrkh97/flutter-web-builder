@@ -8,9 +8,10 @@ Image: [`mrkh97/flutter-web-builder`](https://hub.docker.com/r/mrkh97/flutter-we
 
 ## Supported tags
 
-| Tag      | Flutter version | Base         | Arch          |
-| -------- | --------------- | ------------ | ------------- |
-| `3.41.9` | 3.41.9          | ubuntu:24.04 | linux/amd64   |
+| Tag       | Flutter version | Base         | Arch          |
+| --------- | --------------- | ------------ | ------------- |
+| `3.41.9`  | 3.41.9          | ubuntu:24.04 | linux/amd64   |
+| `3.38.10` | 3.38.10         | ubuntu:24.04 | linux/amd64   |
 
 > No `latest` tag on purpose — pin to an explicit version so future additions never break your existing builds.
 

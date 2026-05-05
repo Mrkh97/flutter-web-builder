@@ -28,7 +28,7 @@ jobs:
           if [ -n "${MANUAL_VERSION}" ]; then
             printf 'versions=["%s"]\n' "${MANUAL_VERSION}" >> "$GITHUB_OUTPUT"
           else
-            echo 'versions=["3.41.9"]' >> "$GITHUB_OUTPUT"
+            echo 'versions=["3.41.9","3.38.10"]' >> "$GITHUB_OUTPUT"
           fi
 
   build:
