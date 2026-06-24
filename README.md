@@ -10,6 +10,7 @@ Image: [`mrkh97/flutter-web-builder`](https://hub.docker.com/r/mrkh97/flutter-we
 
 | Tag       | Flutter version | Base         | Arch          |
 | --------- | --------------- | ------------ | ------------- |
+| `3.44.3`  | 3.44.3          | ubuntu:24.04 | linux/amd64   |
 | `3.44.2`  | 3.44.2          | ubuntu:24.04 | linux/amd64   |
 | `3.41.9`  | 3.41.9          | ubuntu:24.04 | linux/amd64   |
 | `3.38.10` | 3.38.10         | ubuntu:24.04 | linux/amd64   |
